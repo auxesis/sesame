@@ -1,6 +1,6 @@
 # Sesame
 
-A password generator.
+A simple password generator.
 
 ## Running
 
